@@ -1,6 +1,13 @@
 # scMultiomeGRN
 Deep learing-based inferring cell-specific gene regulatory networks from single-cell multiome data
-## Install enviromment
+## Table of contents
+- [Network diagram](#diagram)
+- [Install enviromment](#Install enviromment)
+- [Running](#Running)
+- [Citation](#Citation)
+- [Contact](#contact)
+## <a name="diagram"></a>Network diagram
+## <a name="Install enviromment"></a>Install enviromment
 ### Install [MAESTRO](https://github.com/liulab-dfci/MAESTRO)
 ```bash
 docker pull winterdongqing/maestro:1.2.1
@@ -16,5 +23,8 @@ $ pip install torch==2.4.0 torchvision==0.19.0 torchaudio==2.4.0 --index-url htt
 $ pip install torch_geometric
 $ pip install lightning h5py pandas scikit-learn scipy tqdm gensim
 ```
-## Running
+## <a name="Running"></a>Running
 see `demo/demo.ipynb`
+## <a name="Citation"></a>Citation
+## <a name="contact"></a>Contact
+Junlin Xu xjl@hnu.edu.cn
