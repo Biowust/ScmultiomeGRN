@@ -2,12 +2,12 @@
 Deep learing-based inferring cell-specific gene regulatory networks from single-cell multiome data
 ## Table of contents
 - [Network diagram](#diagram)
-- [Installation](#Installation)
+- [Install Environment](#Installation)
 - [Running](#Running)
 - [Citation](#Citation)
 - [Contact](#contact)
 ## <a name="diagram"></a>Network diagram
-## <a name="Installation"></a>Installation
+## <a name="Installation"></a>Install Environment
 ### Install [MAESTRO](https://github.com/liulab-dfci/MAESTRO)
 ```bash
 docker pull winterdongqing/maestro:1.2.1
