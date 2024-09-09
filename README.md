@@ -1,5 +1,5 @@
 # scMultiomeGRN
-
+Deep learing-based inferring cell-specific gene regulatory networks from single-cell multiome data
 ## Install enviromment
 ### Install [MAESTRO](https://github.com/liulab-dfci/MAESTRO)
 ```bash
